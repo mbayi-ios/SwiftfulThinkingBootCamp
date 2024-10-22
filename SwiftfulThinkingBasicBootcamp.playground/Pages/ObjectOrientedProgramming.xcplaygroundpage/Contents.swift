@@ -26,7 +26,7 @@ import Foundation
  
  // Objects in the Stack
  // Strings, Bool, Int, most basic types
- // NEW: Structs, Enum
+ // NEW: Structs, Enum, Array
  
  // objects in the Heap
  // functions
