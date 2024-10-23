@@ -52,7 +52,7 @@ for (index, lesson) in allLessons.enumerated() {
     print("index : \(index) || is \(lesson)")
 }
 
-print("-------")
+print("----------------------------------------------------------------------")
 
 for (index, lesson) in allLessons.enumerated() {
     
